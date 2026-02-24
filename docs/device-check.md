@@ -1,8 +1,8 @@
-# Device Check — [Your Name]
+# Device Check — Omar Allahham
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** 2026-02-24
+**GitHub username:** omaromar03
 
 ---
 
@@ -10,36 +10,36 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Operating System | Windows 11 Pro |
+| OS Build / Version | Version 22H2 (OS Build 22621.4317) |
+| RAM | 8 GB |
+| CPU Model | Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz |
+| CPU Cores | 4 Cores (8 Logical Processors) |
+| Free Disk Space | 107 GB free (Drive C:) |
+| Internet Speed (Download) | 95.80 Mbps |
 
 ---
 
 ## Evidence Checklist
 
-- [ ] Screenshot: OS version
-- [ ] Screenshot: RAM and CPU details
-- [ ] Screenshot: Free disk space
-- [ ] Screenshot: Internet speed test result
-- [ ] Screenshot: Admin rights confirmed
+- [x] Screenshot: OS version
+- [x] Screenshot: RAM and CPU details
+- [x] Screenshot: Free disk space
+- [x] Screenshot: Internet speed test result
+- [x] Screenshot: Admin rights confirmed
 
 **Windows only:**
-- [ ] Screenshot: `wsl -l -v` output showing WSL 2
-- [ ] Screenshot: `wsl --status` output
+- [x] Screenshot: `wsl -l -v` output showing WSL 2
+- [x] Screenshot: `wsl --status` output
 
 ---
 
 ## Admin Rights Confirmation
 
-**Result:** [Paste command output, or write "Confirmed via System Settings"]
+**Result:** Administrator privileges confirmed. WSL Ubuntu running successfully with Version 2.
 
 ---
 
 ## Device Notes
 
-[Any device issues, constraints, or concerns. Write "None" if everything checks out.]
+None
